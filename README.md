@@ -32,6 +32,20 @@ A modern employee management web application built with React that allows you to
 Install dependencies
 npm install
 
-Start development server
+Start server
 npm start
+
+📂 Project Structure
+PRODIGY_FS_02/
+├── public/          # Static assets
+├── src/             # Source code
+│   ├── components/  # React components
+│   ├── styles/      # CSS/SASS files
+│   └── utils/       # Helper functions
+├── package.json
+└── README.md
+📧 Contact
+avikadhao137@gmail.com
+
+Project Link: https://github.com/avikadhao/PRODIGY_FS_02
 
